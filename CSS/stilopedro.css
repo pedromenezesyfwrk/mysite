@@ -22,7 +22,14 @@ body {
   h1, h2, h3 {
     color: #333; 
   }
-  
+  img  {
+  width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    float: right;
+  }
+
   p {
     margin: 10px 0;
   }
